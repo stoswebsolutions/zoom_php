@@ -1,0 +1,23 @@
+
+ 1) Open-->https://marketplace.zoom.us/
+ 2) click-->Develop
+ 3) Select-->Build App
+ 4) Click-->Create in the-->JWT
+ 
+ 
+ Basic information:
+	 App name
+	 Company Name
+ 
+ Developer Contact Information:
+	 Name
+	 Email address
+	 
+	 
+	 
+https://devforum.zoom.us/t/api-error-1114-create-meeting-cannot-assign-alternative-host/79897
+
+https://zoom.us/account/user
+
+https://zoom.us/account/billing/buy?plan=pro&subPlan=allSubPlan&type=basic2pro
+
